@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DataReader" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="SqlConStr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=PC;Initial Catalog=Railway;Persist Security Info=True;User ID=DataAccess;Password=15963</Value>
+    </Setting>
+    <Setting Name="StationName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ZD111-01 ZD111-02 ZD311 ZD326 ZD192 ZD022 ZD250 ZD062 ZD120 ZD121 ZD143 ZD370 ZD190-02 ZD190-01</Value>
+    </Setting>
+    <Setting Name="TempPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Desktop\泰迪杯\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

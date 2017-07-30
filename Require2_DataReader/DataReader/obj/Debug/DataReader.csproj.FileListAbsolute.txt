@@ -1,0 +1,10 @@
+d:\文档\visual studio 2015\Projects\DataReader\DataReader\bin\Debug\DataReader.exe.config
+d:\文档\visual studio 2015\Projects\DataReader\DataReader\obj\Debug\DataReader.csprojResolveAssemblyReference.cache
+d:\文档\visual studio 2015\Projects\DataReader\DataReader\obj\Debug\DataReader.Form1.resources
+d:\文档\visual studio 2015\Projects\DataReader\DataReader\obj\Debug\DataReader.Properties.Resources.resources
+d:\文档\visual studio 2015\Projects\DataReader\DataReader\obj\Debug\DataReader.csproj.GenerateResource.Cache
+d:\文档\visual studio 2015\Projects\DataReader\DataReader\bin\Debug\DataReader.exe
+d:\文档\visual studio 2015\Projects\DataReader\DataReader\bin\Debug\DataReader.pdb
+d:\文档\visual studio 2015\Projects\DataReader\DataReader\obj\Debug\DataReader.exe
+d:\文档\visual studio 2015\Projects\DataReader\DataReader\obj\Debug\DataReader.pdb
+d:\文档\visual studio 2015\Projects\DataReader\DataReader\obj\Debug\DataReader.csproj.ResolveComReference.cache
